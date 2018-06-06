@@ -1,0 +1,11 @@
+About:
+Hi my name Shashank Sharma.i completed my B.tech from Galgotias university in 2018.
+i am a full stack mean developer i also love to create native android apps and
+ionic apps.
+
+Hobbies:
+my hobbies are watching cricket, movies, travelling ,and problem solving.
+
+Contact:
+Github:github.com/storytellerr
+Linked-In:linkedin.com/in/Storytellerr
